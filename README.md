@@ -6,6 +6,7 @@
 My Stream is an app to store a consolidated watch list for movies available on all renting services. It also allows you to track movies you have watched.
 
 GitHub Link: https://github.com/MeganGerwick/my_stream
+
 Deployed App: https://my-stream-project.herokuapp.com/
 
 ## Table of Contents
